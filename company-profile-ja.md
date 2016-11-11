@@ -1,11 +1,11 @@
 # Company Profile (Japan)
 
-![slide01](https://cloud.githubusercontent.com/assets/10515/19545820/7ddeeffc-96c4-11e6-8e74-5a88cb443609.png)
+![slide01](https://cloud.githubusercontent.com/assets/4939774/20208734/7f2d6b74-a833-11e6-9181-fa88747e01e0.png)
 
 - Quipper は教育サービスとプラットフォームを提供している会社です
 - 2010 年に、元 DeNA 共同創業者の渡辺雅之がロンドンで創業しました
 
-![slide02](https://cloud.githubusercontent.com/assets/10515/19545868/fabdfebe-96c4-11e6-9d4d-2eb65bd8b3a6.png)
+![slide02](https://cloud.githubusercontent.com/assets/4939774/20208738/8173d800-a833-11e6-8e9d-3ec4a2af006e.png)
 
 - Quipper は "Distributors of Wisdom" というビジョンを掲げています
 - 日本語だと「世界の果てまで最高の学びを届けよう」
@@ -27,7 +27,7 @@
 - プロダクト開発チームはロンドン・東京・マニラが多いです。他のオフィスにもエンジニアとデザイナーが若干名います
 - プロダクト開発チームだけでなく、サービスに関わるほとんどの人が GitHub と Slack を使って日々コミュニケーションをしています
 
-![slide04](https://cloud.githubusercontent.com/assets/10515/19546095/823c93ee-96c7-11e6-8dff-202004e6755c.png)
+![slide04](https://cloud.githubusercontent.com/assets/4939774/20208741/836ab91c-a833-11e6-971e-472e5b39c4e0.png)
 
 - 2015 年 4 月にリクルートマーケティングパートナーズに買収され、完全子会社になりました
 - リクルートマーケティングパートナーズは、ゼクシィ・カーセンサーなどの紙媒体メディアや、スタディサプリという教育サービスを提供しています
