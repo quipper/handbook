@@ -36,7 +36,7 @@
 
 ![slide05](https://cloud.githubusercontent.com/assets/14937062/20047173/f9534104-a4f4-11e6-8883-9fc4403277fd.png)
 
-- Quipper が提供しているプロダクトは以下の三つです・スタディサプリ、 Quipper School、 Quipper Video
+- Quipper が提供しているプロダクトは以下の三つです。スタディサプリ、 Quipper School、 Quipper Video
 - Quipper School は、先生が宿題を管理しやすくするサービスです。学校の先生はとても忙しく、宿題の回収や採点などに時間がかかり、負担がかかっていたので、それを解決するために作りました。オンラインで完結し、採点も自動で行われるため、先生の負担を減らせます
 - Quipper Video は、生徒が有名講師の講義動画を視聴できるサービスです。定額料金で見放題で、演習問題もあります
 - Quipper School はフィリピンを中心にインドネシアやメキシコでサービスを提供しています。 Quipper Video はインドネシアを中心にフィリピン・メキシコでサービスを提供しています
@@ -46,5 +46,5 @@
 
 ## Appendix
 
-- 9月末よりQuipper日本オフィスのプロダクトチームでブログを始めたので、是非ご覧ください
+- 2016年9月末よりQuipper日本オフィスのプロダクトチームでブログを始めたので、是非ご覧ください
 　http://quipper.hatenablog.com/entry/2016/09/29/124325
