@@ -1,4 +1,4 @@
-# Company Profile (Japan)
+# Company Profile (Japanese)
 
 ![slide01](https://cloud.githubusercontent.com/assets/4939774/20208734/7f2d6b74-a833-11e6-9181-fa88747e01e0.png)
 
