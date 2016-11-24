@@ -1,3 +1,4 @@
 # Quipper Handbook
 
-[Company Profile (Japan)](./company-profile-ja.md)
+- [Company Profile (English)](./company-profile-en.md)
+- [Company Profile (Japanese)](./company-profile-ja.md)
