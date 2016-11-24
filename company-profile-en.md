@@ -40,7 +40,7 @@
 - Quipper School is an online homework management system to support teachers’ everyday tasks of preparing, collecting, and grading papers.
 - Quipper Video allows students to watch lecture videos of the greatest teachers anywhere, and learn with step by step study guides and practice quizzes for assessment.
 - Quipper School and Quipper Video are currently available in the Philippines, Indonesia, and Mexico. We also provide the two platforms in Japan by the service name StudySapuri.
-- For product development, we take the GitHub Flow where all code reviews are done in pull requests. Repositories for the source codes are not separated per market, making it possible for all engineers to commit in the same repository and review from any office. For any localisation such as feature or design, the changes are made through options when the products are built.
+- For product development, we take the [GitHub Flow](https://guides.github.com/introduction/flow/) where all code reviews are done in pull requests. Repositories for the source codes are not separated per market, making it possible for all engineers to commit in the same repository and review from any office. For any localisation such as feature or design, the changes are made through options when the products are built.
 
 ## Appendix
 
