@@ -12,7 +12,7 @@
 
 ![slide03](https://cloud.githubusercontent.com/assets/14937062/20047069/e77fb7a6-a4f3-11e6-9c28-380fae0925d4.png)
 
-- We currently have 5 offices located in London (HQ), Tokyo, Manila, Jakarta, Mexico City, and a team working in Ho Chi Minh City.
+- We currently have 5 offices located at London (HQ), Tokyo, Manila, Jakarta, Mexico City, and a team working in Ho Chi Minh City.
 - The team has grown to over 500 employees, including our largest sales force of 300 staff across Indonesia in 12 local branches.
 - The product team consists of c. 50 members, which more than half are web engineers. (as of Sep 2016)
 
@@ -25,7 +25,7 @@
 | Mexico City | 1 | 0 | 0 | 0 | 1 |
 | Total | 23 | 9 | 3 | 8 | 43 |
 
-- Majority of the product team is now based in Tokyo and Manila.
+- Majority of the product team is now based  Tokyo and Manila.
 - To reach across the globe and work efficiently, we communicate and collaborate through GitHub and Slack, also with members outside the product team.
 
 ![slide04](https://cloud.githubusercontent.com/assets/4939774/20208741/836ab91c-a833-11e6-971e-472e5b39c4e0.png)
