@@ -25,7 +25,7 @@
 | Mexico City | 1 | 0 | 0 | 0 | 1 |
 | Total | 23 | 9 | 3 | 8 | 43 |
 
-- Majority of the product team is now based  Tokyo and Manila.
+- Majority of the product team is now based in Tokyo and Manila.
 - To reach across the globe and work efficiently, we communicate and collaborate through GitHub and Slack, also with members outside the product team.
 
 ![slide04](https://cloud.githubusercontent.com/assets/4939774/20208741/836ab91c-a833-11e6-971e-472e5b39c4e0.png)
