@@ -34,7 +34,7 @@
 - After joining RMP, we migrated their existing online educational service onto Quipper’s platform and now collaborate in product development and service operation.
 - Bunyo Yamaguchi, CEO of RMP, Chairman of Quipper, and Masa share the vision of delivering the best education to all corners of the world.
 
-![slide05](https://cloud.githubusercontent.com/assets/14937062/20047173/f9534104-a4f4-11e6-8883-9fc4403277fd.png)
+![slide05](https://cloud.githubusercontent.com/assets/14937062/23536436/37f2d2ee-0008-11e7-8d83-0f16259af4fa.png)
 
 - We have three products: Quipper School, Quipper Video, and StudySapuri
 - Quipper School is an online homework management system to support teachers’ everyday tasks of preparing, collecting, and grading papers.
