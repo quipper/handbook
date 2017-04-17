@@ -21,9 +21,9 @@
 | London | 4 | 0 | 0 | 1 | 5 |
 | Tokyo | 8 | 7 | 3 | 3 | 21 |
 | Manila | 8 | 2 | 0 | 2 | 12 |
-| Jakarta | 2 | 0 | 0 | 2 | 4 |
-| Mexico City | 1 | 0 | 0 | 0 | 1 |
-| Total | 23 | 9 | 3 | 8 | 43 |
+| Jakarta | 3 | 0 | 0 | 2 | 4 |
+| Mexico City | 2 | 0 | 0 | 0 | 1 |
+| Total | 25 | 9 | 3 | 8 | 43 |
 
 - Majority of the product team is now based in Tokyo and Manila.
 - To reach across the globe and work efficiently, we communicate and collaborate through GitHub and Slack, also with members outside the product team.
