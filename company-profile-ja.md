@@ -26,7 +26,7 @@
 | London | 0 | 0 | 0 | 1 | 1 |
 | Tokyo | 21 | 8 | 2 | 3 | 34 |
 | Manila | 7 | 2 | 1 | 0 | 10 |
-| Jakarta | 4 | 1 | 0 | 1 | 6 |
+| Jakarta | 4 | 2 | 0 | 1 | 7 |
 | Mexico City | 2 | 0 | 0 | 0 | 2 |
 | Total | 34 | 10 | 2 | 5 | 51 |
 
