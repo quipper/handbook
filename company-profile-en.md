@@ -16,7 +16,7 @@
 - The team has grown to over 500 employees, including our largest sales force of 300 staff across Indonesia in 12 local branches.
 - The product team consists of c. 50 members, which more than half are web engineers. (as of April 2018)
 
-| | Web | iOS/Android | SRE | Design | Total |
+| | Web | Mobile | SRE | Design | Total |
 | --- | --- | --- | --- | --- | --- |
 | Tokyo | 15 | 5 | 4 | 5 | 29 |
 | Manila | 6 | 2 | 1 | 0 | 9 |
