@@ -14,16 +14,15 @@
 
 - We currently have 5 offices located at London (HQ), Tokyo, Manila, Jakarta, and Mexico City.
 - The team has grown to over 500 employees, including our largest sales force of 300 staff across Indonesia in 12 local branches.
-- The product team consists of c. 50 members, which more than half are web engineers. (as of June 2017)
+- The product team consists of c. 50 members, which more than half are web engineers. (as of April 2018)
 
-| | Web | iOS/Android | SRE | Design | Total |
+| | Web | Mobile | SRE | Design | Total |
 | --- | --- | --- | --- | --- | --- |
-| London | 0 | 0 | 0 | 1 | 1 |
-| Tokyo | 21 | 8 | 2 | 3 | 34 |
-| Manila | 7 | 2 | 1 | 0 | 10 |
-| Jakarta | 4 | 2 | 0 | 1 | 7 |
+| Tokyo | 15 | 5 | 4 | 5 | 29 |
+| Manila | 6 | 2 | 1 | 0 | 9 |
+| Jakarta | 4 | 2 | 0 | 3 | 9 |
 | Mexico City | 2 | 0 | 0 | 0 | 2 |
-| Total | 34 | 10 | 2 | 5 | 51 |
+| Total | 27 | 9 | 5 | 8 | 49 |
 
 - Currently, the product team is located mostly in Tokyo and Manila, but we plan to increase the number of employees in Jakarta etc.
 - To reach across the globe and work efficiently, we communicate and collaborate through GitHub and Slack, also with members outside the product team.
