@@ -18,11 +18,11 @@
 
 | | Web | Mobile | SRE | Design | Total |
 | --- | --- | --- | --- | --- | --- |
-| Tokyo | 15 | 5 | 4 | 5 | 29 |
+| Tokyo | 13 | 8 | 2 | 4 | 27 |
 | Manila | 6 | 2 | 1 | 0 | 9 |
 | Jakarta | 4 | 2 | 0 | 3 | 9 |
 | Mexico City | 2 | 0 | 0 | 0 | 2 |
-| Total | 27 | 9 | 5 | 8 | 49 |
+| Total | 25 | 12 | 3 | 7 | 47 |
 
 - Currently, the product team is located mostly in Tokyo and Manila, but we plan to increase the number of employees in Jakarta etc.
 - To reach across the globe and work efficiently, we communicate and collaborate through GitHub and Slack, also with members outside the product team.
