@@ -53,5 +53,5 @@
 - スタディサプリの歴史や大事にしていること
 　http://www.recruit-mp.co.jp/service/sapuri.html
 
-- Quipper日本オフィスのプロダクトチームブログもありますので、是非ご覧ください
+- Quipper日本オフィスのプロダクトチームブログ
 　http://quipper.hatenablog.com/entry/2016/09/29/124325
