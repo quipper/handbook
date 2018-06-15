@@ -46,8 +46,17 @@
 - Quipper Video は、生徒が有名講師の講義動画を視聴できるサービスです。定額料金で見放題で、演習問題もあります
 - Quipper School はフィリピンを中心にインドネシアやメキシコでサービスを提供しています。 Quipper Video はインドネシアを中心にフィリピン・メキシコでサービスを提供しています
 - スタディサプリは Quipper School と Quipper Video の日本版で、サービス名称は違いますが中身は Quipper のサービスとほぼ同じです
+
+## 開発について
+
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています
 - 特徴として、海外版と日本版などで、ソースコードのリポジトリを分けていません。エンジニアは全員が同じリポジトリにコミットし、国をまたいで相互にレビューします。機能やビジュアルの違いはビルド時のオプションなどで切り替えています
+- Quipperで使用している技術/ツール
+  - 言語: Ruby, JavaScript, TypeScript, etc.
+  - フレームワーク: Ruby on Rails, React/Redux, Backbone.js, React Native etc.
+  - データベース: MongoDB, Redis, PostgreSQL, BigQuery, Treasure Data
+  - インフラ: AWS, Heroku, Docker, Kubernetes
+  - コミュニケーション: GitHub, Slack
 
 ## Appendix
 - [スタディサプリの歴史や大事にしていること](http://www.recruit-mp.co.jp/service/sapuri.html)
