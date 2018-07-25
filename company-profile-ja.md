@@ -61,6 +61,24 @@
   - インフラ: AWS, Heroku, Docker, Kubernetes
   - コミュニケーション: GitHub, Slack
 
+### アーキテクチャ（ユーザー別）
+
+アプリケーションを利用するユーザーは主に以下の3種類に分類されます。
+
+1. 生徒
+2. 先生
+3. コンテンツ入稿者
+
+それぞれのユーザーごとに必要な機能は異なるため、各々の種類に特化したアプリケーションを開発しています。
+
+![image](https://user-images.githubusercontent.com/1811616/43199064-b05d1bb6-904b-11e8-943c-eb41170c467c.png)
+
+### アーキテクチャ（レポジトリ別）
+
+以下は各アプリケーションの構成要素と使用技術をより細分化した図です。
+
+![image](https://user-images.githubusercontent.com/1811616/43199083-c348ccfc-904b-11e8-8281-8d4e921abfe9.png)
+
 ## Appendix
 - [スタディサプリの歴史や大事にしていること](http://www.recruit-mp.co.jp/service/sapuri.html)
 - [Quipper日本オフィスのプロダクトチームブログ](http://quipper.hatenablog.com/entry/2016/09/29/124325)
