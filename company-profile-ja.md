@@ -24,11 +24,11 @@
 
 | | Web* | Mobile | SRE | Design | Total |
 | --- | --- | --- | --- | --- | --- |
-| Tokyo | 16 | 7 | 3 | 4 | 30 |
+| Tokyo | 18 | 7 | 3 | 4 | 32 |
 | Manila | 6 | 2 | 1 | 0 | 9 |
 | Jakarta | 4 | 2 | 0 | 3 | 9 |
 | Mexico City | 2 | 0 | 0 | 0 | 2 |
-| Total | 28 | 11 | 4 | 7 | 50 |
+| Total | 30 | 11 | 4 | 7 | 52 |
 
 \* Quipper においてはフロントエンドとバックエンドを基本的には分けておらず、 Web Engineer が両方の開発を担当します
 
