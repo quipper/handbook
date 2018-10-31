@@ -82,3 +82,4 @@
 ## Appendix
 - [スタディサプリの歴史や大事にしていること](http://www.recruit-mp.co.jp/service/sapuri.html)
 - [Quipper日本オフィスのプロダクトチームブログ](http://quipper.hatenablog.com/entry/2016/09/29/124325)
+- [Quipperの歴史についてわかる動画](https://drive.google.com/file/d/1gwEaa4zYxZZzKABgumpWMmCvH2Ka12Wt/view?usp=sharing)
