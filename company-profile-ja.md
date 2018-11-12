@@ -50,6 +50,12 @@
 - Quipper School はフィリピンを中心にインドネシアやメキシコでサービスを提供しています。 Quipper Video はインドネシアを中心にフィリピン・メキシコでサービスを提供しています
 - スタディサプリは Quipper School と Quipper Video の日本版で、サービス名称は違いますが中身は Quipper のサービスとほぼ同じです
 
+## History of Quipper
+
+動画でも Quipper の歴史についてご紹介しています。（サムネイルをクリックして再生）
+
+[![history of quipper](https://user-images.githubusercontent.com/625489/48329952-401a2580-e68e-11e8-9e32-e06d4e3250ee.png)](https://drive.google.com/file/d/1gwEaa4zYxZZzKABgumpWMmCvH2Ka12Wt/view)
+
 ## 開発について
 
 - 開発スタイルは [GitHub Flow](https://guides.github.com/introduction/flow/) で、変更は原則すべて Pull Request でコードレビューを行っています
