@@ -20,9 +20,9 @@
 | --- | --- | --- | --- | --- | --- |
 | Tokyo | 18 | 7 | 3 | 4 | 32 |
 | Manila | 6 | 2 | 1 | 0 | 9 |
-| Jakarta | 7 | 4 | 0 | 3 | 14 |
+| Jakarta | 7 | 5 | 0 | 3 | 15 |
 | Mexico City | 2 | 0 | 0 | 0 | 2 |
-| Total | 33 | 13 | 4 | 7 | 57 |
+| Total | 33 | 14 | 4 | 7 | 58 |
 
 - Currently, the product team is located mostly in Tokyo and Manila, but we plan to increase the number of employees in Jakarta etc.
 - To reach across the globe and work efficiently, we communicate and collaborate through GitHub and Slack, also with members outside the product team.
