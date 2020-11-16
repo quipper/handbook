@@ -182,7 +182,7 @@ Quiz Masterの詳細は二次面接にてご説明いたしますが、概要に
 
 ### 出席者
 
-応募者1名に対し、Quipper東京オフィスに在籍するVP of Engineeringの1名が面接官として参加いたします（シニアマネージャー1名が同席する場合もあります）。
+応募者1名に対し、Quipper東京オフィスに在籍するVP of Engineeringの1名とEngineering Manager1名が面接官として参加いたします。
 
 ### 服装・持ち物
 
