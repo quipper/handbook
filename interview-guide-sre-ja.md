@@ -118,7 +118,7 @@ Quipper の採用チームは「ミスマッチこそが採用活動における
 
 ### 出席者
 
-応募者1名に対し、Quipper SRE Team の Engineering Manager と Member から最大2名が面接官として参加いたします。
+応募者1名に対し、Quipper SRE Team の Engineering Manager と Member から最大2名が参加いたします。
 
 面談担当は面談全体を仕切り、会社説明・応募者からの質問への回答などを行います。
 
