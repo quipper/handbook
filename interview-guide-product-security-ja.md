@@ -1,6 +1,6 @@
-# スタディサプリ SRE Team 採用面接ガイド
+# スタディサプリ Product Security Engineering Team 採用面接ガイド
 
-このドキュメントでは [スタディサプリ SRE Team](https://career.quipper.com/jp/jobs/sre/) の採用プロセスにおける面接について説明します。
+このドキュメントでは [スタディサプリ Product Security Engineering Team](https://brand.studysapuri.jp/career/position/product-security-engineer) の採用プロセスにおける面接について説明します。
 
 ## 目的
 
@@ -35,13 +35,13 @@
 
 ### 出席者
 
-応募者1名に対し、スタディサプリ SRE Team の Engineering Manager と Member の合計3名が面接官として参加いたします。
+応募者1名に対し、スタディサプリ Product Security Engineering Team の Engineering Manager と Member の合計3名が面接官として参加いたします。
 
 面接官のうち1名がファシリテーションを行いますが、適宜他の面接官もフォローや質問を行います。
 
 ### 目的
 
-候補者が スタディサプリ SRE Team で働くことが双方にとって良いことか、そのマッチングを見極めます。
+候補者が スタディサプリ Product Security Engineering Team で働くことが双方にとって良いことか、そのマッチングを見極めます。
 
 相互に理解することを一番の目的としているので、面接中のどのタイミングにおいても候補者から質問していただけます。
 
@@ -71,7 +71,7 @@
 
 ### 出席者
 
-応募者1名に対し、スタディサプリ SRE Team の Engineering Manager と Member の合計3名が面接官として参加いたします。
+応募者1名に対し、スタディサプリ Product Security Engineering Team の Engineering Manager と Member の合計3名が面接官として参加いたします。
 
 面接官のうち1名がファシリテーションを行いますが、適宜他の面接官もフォローや質問を行います。
 
@@ -91,11 +91,11 @@
 
 ## 最終面接
 
-最終面接は、応募者とスタディサプリ SRE Team がマッチするかを**お互いに**見極めることを目的に実施します。
+最終面接は、応募者とスタディサプリ Product Security Engineering Team がマッチするかを**お互いに**見極めることを目的に実施します。
 
 ### 出席者
 
-応募者1名に対し、VP of Engineering の1名と SRE Team の Engineering Manager 1名、HR Manager 1名の合計 3名が面接官として参加いたします。
+応募者1名に対し、VP of Engineering の1名と Product Security Engineering Team の Engineering Manager 1名、HR Manager 1名の合計 3名が面接官として参加いたします。
 
 ### 時間割
 
@@ -110,16 +110,16 @@
 1. カルチャーフィットをはかる質問
 1. その他の質問（質問しない場合もあります）
 1. お任せする可能性がある仕事の紹介（10分）
-1. 応募者からスタディサプリ SRE Team への質問（10分）
+1. 応募者からスタディサプリ Product Security Engineering Team への質問（10分）
 1. 面接のゴールが達成できたか確認（5分）
 
 ## カジュアル面談
 
-カジュアル面談は選考を伴う通常の“面接”ではなく、スタディサプリ SRE Team についてより深く知りたいという方に向けてご案内しているカジュアルな形式の面談です。
+カジュアル面談は選考を伴う通常の“面接”ではなく、スタディサプリ Product Security Engineering Team についてより深く知りたいという方に向けてご案内しているカジュアルな形式の面談です。
 
 ### 出席者
 
-応募者1名に対し、スタディサプリ SRE Team の Engineering Manager と Member から最大2名が参加いたします。
+応募者1名に対し、スタディサプリ Product Security Engineering Team の Engineering Manager と Member から最大2名が参加いたします。
 
 面談担当は面談全体を仕切り、会社説明・応募者からの質問への回答などを行います。
 
