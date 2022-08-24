@@ -95,7 +95,7 @@
 
 ### 出席者
 
-応募者1名に対し、VP of Engineering の1名と SRE Team の Engineering Manager 1名が面接官として参加いたします。
+応募者1名に対し、VP of Engineering の1名と SRE Team の Engineering Manager 1名、HR Manager 1名の合計 3名が面接官として参加いたします。
 
 ### 時間割
 
